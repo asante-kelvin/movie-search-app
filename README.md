@@ -99,9 +99,7 @@ Contributions are welcome! Feel free to:
 
 Asante kelvin
 
-- GitHub: [@Yasantekelvin](https://github.com/asante-kelvin)
-
-## 📄 License
+- GitHub: [@asantekelvin](https://github.com/asante-kelvin)
 
 ## 🙏 Acknowledgments
 
