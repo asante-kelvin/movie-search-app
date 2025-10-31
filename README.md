@@ -1,5 +1,5 @@
 # 🎬 Cinema Search
-This project was built as a hands-on learning experience to master JavaScript fundamentals.
+A learning project created to practice and improve JavaScript skills
 
 ![Cinema Search](https://img.shields.io/badge/JavaScript-ES6+-yellow)
 ![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue)
