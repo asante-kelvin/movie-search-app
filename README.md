@@ -1,6 +1,5 @@
 # 🎬 Cinema Search
-
-A modern movie search and discovery app built with vanilla JavaScript and TMDB API.
+This project was built as a hands-on learning experience to master JavaScript fundamentals.
 
 ![Cinema Search](https://img.shields.io/badge/JavaScript-ES6+-yellow)
 ![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue)
