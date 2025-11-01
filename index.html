@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <!-- We'll add content here soon -->
+    <body>
+    <!-- NAVIGATION BAR -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <h1 class="logo">🎬 MovieHub</h1>
+            
+            <!-- Hamburger menu icon for mobile -->
+            <div class="menu-icon" id="menu-icon">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            
+            <!-- Navigation links -->
+            <div class="nav-links" id="nav-links">
+                <a href="#" id="home-link">Home</a>
+                <a href="#" id="popular-link">Popular</a>
+                <a href="#" id="top-rated-link">Top Rated</a>
+                <a href="#" id="upcoming-link">Upcoming</a>
+            </div>
+            
+            <!-- Search bar -->
+            <div class="search-box">
+                <input type="text" id="search-input" placeholder="Search movies...">
+                <button id="search-btn">🔍</button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- HERO SECTION (Big banner at top) -->
+    <section class="hero" id="hero">
+        <div class="hero-content">
+            <h1 id="hero-title">Welcome to MovieHub</h1>
+            <p id="hero-info">Discover amazing movies</p>
+            <button class="btn-primary" id="explore-btn">Explore Now</button>
+        </div>
+    </section>
+
+    <!-- MOVIES SECTION -->
+    <section class="movies-section">
+        <h2 id="section-title">Popular Movies</h2>
+        <div class="movie-container" id="movie-container">
+            <!-- Movie cards will be added here by JavaScript -->
+        </div>
+    </section>
+
+    <!-- MODAL (Popup for movie details) -->
+    <div class="modal" id="movie-modal">
+        <div class="modal-content" id="modal-content">
+            <!-- Movie details will be added here by JavaScript -->
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
